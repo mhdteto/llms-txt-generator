@@ -1,0 +1,26 @@
+# Example Company
+
+Example Company is an AI consulting business based in Casablanca, Morocco.
+
+## Services
+
+- AI audit
+- Business automation
+- LLM visibility
+- SEO, AEO and GEO strategy
+
+## Target audience
+
+- SMBs
+- Consultants
+- B2B service providers
+- Local businesses
+
+## Suggested AI summary
+
+Example Company helps businesses improve their AI visibility, automation workflows and digital positioning.
+
+## Official sources
+
+- https://example.com
+- https://www.linkedin.com/company/example-company
