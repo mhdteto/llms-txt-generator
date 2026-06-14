@@ -16,6 +16,20 @@ An `llms.txt` file can help organize key information about a business in a simpl
 - Local business example
 - Reusable template
 - Sample output
+- Documentation explaining what `llms.txt` is
+- Entity fields guide
+- Output review checklist
+- Roadmap
+- Changelog
+
+## Documentation
+
+- [What is llms.txt?](docs/what-is-llms-txt.md)
+- [How to use the generator](docs/how-to-use-generator.md)
+- [Entity fields guide](docs/entity-fields-guide.md)
+- [Output review checklist](docs/output-review-checklist.md)
+- [Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
 
 ## Use case
 
@@ -48,6 +62,12 @@ Example Company is an AI consulting business based in Casablanca, Morocco.
 ## Business value
 
 The output gives consultants and SMBs a structured way to describe their entity, services and positioning for AI visibility audits, content reviews and website documentation.
+
+## Disclaimer
+
+This project does not guarantee rankings, citations or recommendations in AI-generated answers.
+
+It provides a practical way to structure public business information for AI visibility reviews, entity documentation and content audits.
 
 ## Author
 
