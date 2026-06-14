@@ -1,6 +1,12 @@
 # Example Company
 
+## Overview
+
 Example Company is an AI consulting business based in Casablanca, Morocco.
+
+## Website
+
+https://example.com
 
 ## Services
 
@@ -16,11 +22,23 @@ Example Company is an AI consulting business based in Casablanca, Morocco.
 - B2B service providers
 - Local businesses
 
+## Official links
+
+- Website: https://example.com
+- LinkedIn: https://linkedin.com/company/example
+- Contact: https://example.com/contact
+
+## Source of truth pages
+
+- https://example.com/
+- https://example.com/about
+- https://example.com/services
+- https://example.com/contact
+
 ## Suggested AI summary
 
-Example Company helps businesses improve their AI visibility, automation workflows and digital positioning.
+Example Company helps businesses improve AI visibility, structure entity information and automate practical workflows.
 
-## Official sources
+## Important note
 
-- https://example.com
-- https://www.linkedin.com/company/example-company
+This file is intended to summarize public business information in a clear and structured format. It does not guarantee rankings, citations or recommendations in AI-generated answers.
